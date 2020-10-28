@@ -1,7 +1,7 @@
 {
-    "name": "bavragor/faker-en-US",
+    "name": "bavragor/faker-en-us",
     "type": "library",
-    "description": "faker-en-US is an extension for faker-core to provide providers for the locale en_US.",
+    "description": "faker-en-us is an extension for faker-core to provide providers for the locale en_US.",
     "keywords": [
         "faker",
         "fixtures",
@@ -17,8 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
-        "bavragor/faker-en-US": "^1.0"
+        "php": "^7.4 || ^8.0"
     },
     "require-dev": {
         "ext-intl": "*",
